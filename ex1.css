@@ -1,0 +1,30 @@
+h1{
+    color: #8A2BE2;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 30px;
+}
+
+h2{
+    color: rgba(95, 158, 160, 0.8);
+    font-style: oblique;
+    font-weight: 50px; 
+}
+
+h3{
+    color: rgba(47, 79, 79, 0.5);
+    font-style: oblique;
+    font-weight: 50px; 
+}
+
+p{
+    text-align: center;
+    font-style: oblique;
+}
+
+div{
+    text-align: center;
+    width: 260px;
+    height: 200px;
+    border-width: 3px;
+    border-style: double;
+}
